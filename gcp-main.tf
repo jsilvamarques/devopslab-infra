@@ -1,4 +1,4 @@
 resource "google_app_engine_application" "app" {
-  project     = "dev-ops-lab-jefferson"
+  project     = "DevOpsLab"
   location_id = "us-central"
 }
